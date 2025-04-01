@@ -1,7 +1,7 @@
 # 👩‍🔬 Arpita Paul - Materials Scientist and Computational Material Science Enthusiast  
 
 Welcome to my GitHub!  
-I'm Arpita, a MaMaSELF graduate passionate about exploring the intersection of X-ray techniques, algorithm development, and computational imaging.  
+I'm Arpita, a MaMaSELF graduate passionate about exploring the intersection of X-ray techniques, algorithm development, and computation-intensive roles for research and development.  
 
 ## 🔬 About Me
 - 🌍 Recently completed my Master's thesis at the Walter Schottky Institute, TUM, focusing on ODMR pulse sequences and NV magnetometry.
