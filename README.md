@@ -6,7 +6,7 @@ I'm Arpita, a MaMaSELF graduate passionate about exploring the intersection of X
 ## 🔬 About Me
 - 🌍 Recently completed my Master's thesis at the Walter Schottky Institute, TUM, focusing on ODMR pulse sequences and NV magnetometry.
 - 🧪 Hands-on experience with X-ray imaging, XMCD, Fourier optics, and advanced fabrication techniques.
-- 🤖 Transitioning into algorithm development for computational X-ray optics and image reconstruction.
+- 🤖 Transitioning into computational roles for algorithm development and research.
 
 ## 🛠️ Skills
 - Programming: Python (NumPy, SciPy, Matplotlib, TensorFlow), C++, and LaTeX.  
@@ -15,7 +15,7 @@ I'm Arpita, a MaMaSELF graduate passionate about exploring the intersection of X
 
 ## 🚀 Current Goals
 - 💻 Developing methods and algorithms for computational imaging and phase retrieval.
-- 📈 Applying advanced X-ray optics to solve interdisciplinary challenges in biology, energy storage, and more.  
+- 📈 Applying scientific software principles to solve interdisciplinary challenges in biology, energy storage, and more.  
 
 ## 🎯 Projects
 - Simulation and Design: Photonic structures using HFSS and COMSOL.  
