@@ -1,4 +1,4 @@
-# 👩‍🔬 Arpita Paul - Materials Scientist and Computational Material Science Enthusiast  
+# 👩‍🔬 Arpita Paul - Physics + Material Science + Deep-tech + Tech  
 
 Welcome to my GitHub!  
 I'm Arpita, a MaMaSELF graduate passionate about exploring the intersection of X-ray techniques, algorithm development, and computation-intensive roles for research and development.  
